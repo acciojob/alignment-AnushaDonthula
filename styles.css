@@ -4,6 +4,10 @@ table {
             border-spacing: 1px;
             padding: 1px;
         }
+        th, td {
+            border: 1px solid black;
+            padding: 1px;
+        }
         .center {
             text-align: center;
         }
@@ -16,4 +20,3 @@ table {
         .blue {
             background-color: blue;
         }
-
